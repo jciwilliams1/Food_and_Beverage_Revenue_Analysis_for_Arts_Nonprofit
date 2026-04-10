@@ -63,7 +63,7 @@ Helps leadership:
 
  <h2>Query 2: Top Genre by Food Category</h2>
 
-**View Full SQL Query:**[Top Genre by Food Category](queries/top_genre_by_category.sql)
+**View Full SQL Query:**[Top Genre by Food Category](sql_queries/top_genre_by_category.sql)
 
 <b>Purpose</b>
 
@@ -84,7 +84,7 @@ Determine which <b>genre generates the highest sales within each product categor
 
  <h2>Query 3: Year-to-Date Item Sales + Profitability</h2>
 
-**View Full SQL Query:**[Year-to-Date Item Sales](queries/year_to_date_item_sales.sql)
+**View Full SQL Query:**[Year-to-Date Item Sales](sql_queries/year_to_date_item_sales.sql)
 
 <b>Purpose</b>
 
@@ -108,7 +108,7 @@ Provide a detailed, transaction-level view of <b>sales performance, pricing, and
 
  <h2>Query 4: Top Item by Category</h2>
 
-**View Full SQL Query:**[Top Item by Category](queries/top_item_by_category.sql)
+**View Full SQL Query:**[Top Item by Category](sql_queries/top_item_by_category.sql)
 
 <b>Purpose</b>
 

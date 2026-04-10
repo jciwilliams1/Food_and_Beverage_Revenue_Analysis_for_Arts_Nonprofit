@@ -40,7 +40,7 @@ The Food & Beverage department required consistent, data-driven insights to answ
 
  <h2>Query 1: Top Event by Genre (Food Sales)</h2>
 
-**View Full SQL Query:** [Top Event by Genre](queries/top_event_by_genre.sql)
+**View Full SQL Query:** [Top Event by Genre](sql_queries/top_event_by_genre.sql)
 
 <b>Purpose</b>
 

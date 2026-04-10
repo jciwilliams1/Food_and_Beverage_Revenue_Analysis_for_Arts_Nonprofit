@@ -1,4 +1,4 @@
-<h1>Food & Beverage Revenue Analysis for Arts Nonprofit</h1>
+<h1>Food & Beverage Revenue Analysis for Arts Nonprofit</h1> 
 
 Turning raw sales data into executive-level insights using SQL and Snowflake.
 
